@@ -1,16 +1,30 @@
-### Hi there 👋
+<p align="center">
+  <h3 align="center">Hi 👋, I'm Evgenii</h3>
+</p>
+<p align="center">
+    <a href="https://emorenkov.com/">About Me</a>
+    ·
+    <a href="mailto:yarad8613b@gmail.com">Email</a>
+    ·
+    <a href="https://www.linkedin.com/in/emorenkov/">LinkedIn</a>
+</p>
+<p align="center">
+  <h4 align="center">Senior Golang Developer</h4>
+</p>
 
-<!--
-**Solorad/solorad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=solorad&color=blue&style=flat-square" alt="solorad profile views" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently open to the new opportunities 
+
+- 🌱 I’m currently learning **Cryptocurrencies**.
+
+- 💬 Ask me about **Golang, databases, CI/CD, git**.
+
+- 📫 How to reach me: @solorad
+
+- 😄 Pronouns: He/Him/His
+
+- ⚡ Fun fact: Love cats a lot
